@@ -1,0 +1,61 @@
+ # Archivos de compilación y dependencias
+bin/
+obj/
+
+# Archivos de configuración locales
+appsettings.Development.json
+appsettings.Production.json
+
+# Archivos de usuario específicos de Visual Studio
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Archivos de usuario específicos de Rider
+.idea/
+
+# Archivos de configuración de Docker
+Dockerfile
+docker-compose.yml
+
+# Archivos de configuración de Azure
+*.publishsettings
+
+# Archivos de prueba
+*.testsettings
+*.tests.xml
+
+# Archivos de configuración de herramientas
+*.ncrunch*
+*.nunit
+*.testadapter
+*.log
+
+# Otros archivos generados
+*.dbmdl
+*.bak
+*.swp
+*.tmp
+*.log
+# Archivos y carpetas generados por Visual Studio
+.vs/
+*.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Archivos generados por la compilación
+*.dll
+*.exe
+*.pdb
+
+# Archivos de sistema operativos
+.DS_Store
+Thumbs.db
+
+# Archivos de índice de Visual Studio
+.vsidx
+
